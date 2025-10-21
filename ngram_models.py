@@ -9,7 +9,7 @@ This module implements various N-gram language models including:
 - Stupid backoff
 - Text generation
 
-Author: Student
+Name: Umesh Adari
 Course: DATA641
 """
 
